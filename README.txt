@@ -2,7 +2,7 @@ Achievement Unlocked :3
 me Read README.txt
 ---------------------
 Main program is: vietnam_lottery_analysis.py (Everything else are modules)
-This is a program used to see how hard it is to get a prize in Viet Nam lottery.
+This program is used to see how hard it is to get a prize in Viet Nam lottery.
 
 How Viet Nam lottery works:
 1. There are 6 numbers on a lottery ticket.
